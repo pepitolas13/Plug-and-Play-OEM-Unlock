@@ -1,0 +1,27 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20260720183445
+Nombre de usuario: DESKTOP-U32PKVS\DAN
+Usuario RunAs: DESKTOP-U32PKVS\DAN
+Nombre de la configuración: 
+Máquina: DESKTOP-U32PKVS (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File G:\Plug-and-Play-OEM-Unlock-main\drivers\_elevated.ps1
+Id. de proceso: 21776
+PSVersion: 5.1.26100.8875
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8875
+BuildVersion: 10.0.26100.8875
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+== Force-bind del driver Android ==
+InstanceId : USB\VID_0E8D&PID_201C\PILOT1NEU0000767
+INF        : G:\Plug-and-Play-OEM-Unlock-main\drivers\google_usb\usb_driver\android_winusb.inf
+Resultado  : OK::Android ADB Interface [candidatos: | Android ADB Interface]
+Estado ahora: OK (code CM_PROB_NONE)
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20260720183448
+**********************

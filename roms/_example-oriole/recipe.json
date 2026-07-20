@@ -1,0 +1,15 @@
+{
+  "description": "EJEMPLO - LineageOS 21 para Pixel 6 (oriole). Renombra esta carpeta a 'oriole' y pon aqui los .img reales.",
+  "requires_unlocked": true,
+  "steps": [
+    "flash boot boot.img",
+    "flash dtbo dtbo.img",
+    "flash vbmeta vbmeta.img --disable-verity --disable-verification",
+    "reboot fastboot",
+    "flash system system.img",
+    "flash vendor vendor.img",
+    "flash product product.img",
+    "-w",
+    "reboot bootloader"
+  ]
+}

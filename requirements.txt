@@ -1,0 +1,5 @@
+# Dependencias OPCIONALES. La herramienta funciona sin ellas usando comandos del
+# sistema como alternativa; instalarlas mejora la experiencia.
+
+# Descompresion automatica de firmware Samsung .img.lz4 (si no, usa el comando lz4).
+lz4

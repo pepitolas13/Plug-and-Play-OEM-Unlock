@@ -1,0 +1,8 @@
+{
+  "tool": "heimdall",
+  "description": "EJEMPLO Samsung - TWRP/recovery para Galaxy S10 (beyond1lte). Renombra la carpeta al codename real y pon aqui los .img.",
+  "notes": "Los nombres de particion (RECOVERY, BOOT, SYSTEM...) deben coincidir con tu PIT. Comprueba con: heimdall print-pit",
+  "steps": [
+    "flash --RECOVERY recovery.img --no-reboot"
+  ]
+}
